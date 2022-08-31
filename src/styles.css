@@ -1,0 +1,17 @@
+html {
+    font-family: 'system-ui';
+}
+
+.CountryName {
+    display: block;
+    padding: 11px;
+    border: 1px solid #a5a5a5;
+    border-top: 0;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.CountryFlag {
+    border: 1px solid #a4a4a4;
+    padding: 10px;
+    border-radius: 20px 0 0;
+}
